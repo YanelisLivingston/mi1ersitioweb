@@ -1,0 +1,27 @@
+body{
+    background-color: dimgrey;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-size: 3.5em;
+    font-weight: bold;
+}
+
+h1, h2, p{
+    background-color: white;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    background-color: white;
+    width: 20%;
+}
+
+video{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
